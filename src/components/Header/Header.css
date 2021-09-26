@@ -1,0 +1,17 @@
+/* Header Component Styling */
+
+.header {
+  text-align: center;
+  background-color: goldenrod;
+  padding: 30px;
+}
+
+/* Header Image Styling */
+.header img {
+  height: 40px;
+  text-align: center;
+}
+
+.header h2 {
+  color: whitesmoke;
+}

@@ -1,0 +1,30 @@
+/* Single Book Style */
+
+.book {
+  text-align: center;
+  background-color: honeydew;
+  margin: 5px;
+  padding: 10px;
+  box-shadow: 1px 2px seagreen;
+  border-radius: 5px;
+}
+
+/* Book Image Styling */
+
+.book-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+/* Issue Button Styling */
+
+.btn-issue {
+  background-color: greenyellow;
+  width: 150px;
+  height: 40px;
+  border: 1px solid rebeccapurple;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 17px;
+}

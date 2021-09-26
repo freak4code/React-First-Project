@@ -1,0 +1,17 @@
+/* Library Component Styling */
+
+/* Grid Display Styling: Books, Issued Books */
+
+.library-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+/* Grid Display Styling: Books - 3 columns */
+
+.books-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 30px;
+  margin-right: 10px;
+}

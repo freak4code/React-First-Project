@@ -1,0 +1,37 @@
+/* Issue Book Component Styling */
+
+.issued-books {
+  background-color: plum;
+  padding: 20px;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+/* Paragraph styling */
+
+p {
+  color: rebeccapurple;
+}
+
+/* h1 styling */
+
+h1 {
+  color: seagreen;
+}
+
+/* Single Book Name Display Styling */
+
+.book-name {
+  text-align: center;
+  background-color: honeydew;
+  padding: 3px;
+  margin: 6px;
+  border: 2px solid blanchedalmond;
+  box-shadow: 1px 2px seagreen;
+}
+
+/* Number Styling i.e total book number , total cost */
+
+.number-text {
+  color: white;
+}
